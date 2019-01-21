@@ -1,10 +1,7 @@
-TUC Half-Checkers
-Implementation name: TAL
---------------------------------------------------
-based on code from Ioannis Skoulakis
+Based on the code provided from Ioannis Skoulakis
 Affiliation: Technical University of Crete, Greece
-TAL code (AI functionality): Stelios Barberakis, chefarov@gmail.com
---------------------------------------------------
+
+TAL code (AI functionality): Stelios Barberakis
 
 Compilation: 
 
