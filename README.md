@@ -1,7 +1,7 @@
 Based on the code provided from Ioannis Skoulakis
 Affiliation: Technical University of Crete, Greece
 
-TAL code (AI functionality): Stelios Barberakis
+TAL code (AI functionality): chefarov
 
 Compilation: 
 
